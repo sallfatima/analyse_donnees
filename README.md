@@ -12,7 +12,7 @@ Bienvenue dans le repo **Analyse de Données avec Python** ! Ce projet pédagogi
 
 ## Structure du Repo
 
-        ```bash
+        
         analyse_donnees/
         ├── README.md            # Présentation globale du projet, objectifs et instructions d'installation
         ├── requirements.txt     # Liste des dépendances (pandas, numpy, matplotlib, seaborn, jupyter, etc.)
@@ -28,7 +28,7 @@ Bienvenue dans le repo **Analyse de Données avec Python** ! Ce projet pédagogi
         └── docs/
             └── cours_complet.md  # Documentation complète du cours sous format Markdown
 
-        ```
+    
 
 ## Comment Utiliser ce Repo
 
