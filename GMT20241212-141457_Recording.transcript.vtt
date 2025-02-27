@@ -1,0 +1,1294 @@
+WEBVTT
+
+1
+00:00:28.520 --> 00:00:30.290
+Fatou Sall: Bonjour, vous m'entendez.
+
+2
+00:00:30.630 --> 00:00:33.750
+Géoffroy - Datascientest: Oui, Fatou, je te reçois très bien, ça, c'est ça que ça marche.
+
+3
+00:00:34.130 --> 00:00:34.870
+Fatou Sall: D'accord.
+
+4
+00:00:35.260 --> 00:00:37.270
+Géoffroy - Datascientest: Donc nous allons.
+
+5
+00:00:38.160 --> 00:00:39.230
+Géoffroy - Datascientest: ca va, jess.
+
+6
+00:00:40.290 --> 00:00:41.669
+Fatou Sall: Oui, ça va bien.
+
+7
+00:00:45.000 --> 00:00:45.930
+Fatou Sall: allô.
+
+8
+00:00:55.270 --> 00:00:56.030
+Géoffroy - Datascientest: C'est pas.
+
+9
+00:00:57.360 --> 00:01:00.930
+Géoffroy - Datascientest: on va démarrer, on va démarrer la séance d'aujourd'hui.
+
+10
+00:01:00.930 --> 00:01:01.450
+Fatou Sall: D'accord.
+
+11
+00:01:01.450 --> 00:01:02.310
+Géoffroy - Datascientest: C'est
+
+12
+00:01:02.770 --> 00:01:09.119
+Géoffroy - Datascientest: donc on avait discuté un temps et je crois qu'on allait démarré avec Lennus si je ne me trompe pas.
+
+13
+00:01:09.280 --> 00:01:12.699
+Fatou Sall: C'est ça, on va démarrer avec du nez si c'est ça qu'on avait dit.
+
+14
+00:01:13.150 --> 00:01:14.850
+Géoffroy - Datascientest: D'accord, super, ça marche
+
+15
+00:01:15.040 --> 00:01:22.450
+Géoffroy - Datascientest: du coup! J'aimerais savoir si vous avez déjà un système d'exploitation Umbutu sur votre machine ou bien. Vous êtes sur la Bm de Data Santes.
+
+16
+00:01:22.450 --> 00:01:27.360
+Fatou Sall: Là, je suis sur Mac, mais je peux être aussi sur la data Synthèse.
+
+17
+00:01:27.980 --> 00:01:32.900
+Géoffroy - Datascientest: D'accord, là, ça marche, donc on va commencer avec Lennus.
+
+18
+00:01:33.380 --> 00:01:41.260
+Géoffroy - Datascientest: De manière générale, on va voir ce qu'est Linus d'accord en dehors de ça, palais, du noyau, de l'humus.
+
+19
+00:01:41.340 --> 00:01:47.750
+Géoffroy - Datascientest: de tout ce qu'on peut voir à bout de Nice, taper la commande, Pourquoi pas avoir aussi la grande job, etc.
+
+20
+00:01:48.160 --> 00:01:49.900
+Géoffroy - Datascientest: Donc Voilà un peu.
+
+21
+00:01:50.610 --> 00:01:55.540
+Géoffroy - Datascientest: parlez moi un peu de ce que vous avez déjà, ce que vous connaissez déjà sous Vilnius
+
+22
+00:01:56.260 --> 00:01:56.820
+Géoffroy - Datascientest: d'abord.
+
+23
+00:01:57.080 --> 00:02:03.209
+Fatou Sall: Ok sur le mixte, je sais que c'est un système d'exploitation qui est utilisé en ligne de commande.
+
+24
+00:02:03.430 --> 00:02:10.649
+Fatou Sall: et donc C'est globalement ça que j'ai retenu et tout ce que tu veux faire en ligne, comment tu pourras le faire.
+
+25
+00:02:12.380 --> 00:02:13.730
+Géoffroy - Datascientest: D'accord, d'accord.
+
+26
+00:02:14.400 --> 00:02:17.059
+Géoffroy - Datascientest: d'accord, il n'y a pas de souci.
+
+27
+00:02:17.880 --> 00:02:19.680
+Géoffroy - Datascientest: on reviendra un peu sur
+
+28
+00:02:20.030 --> 00:02:22.349
+Géoffroy - Datascientest: sucer en notion là.
+
+29
+00:02:22.350 --> 00:02:23.170
+Fatou Sall: Mm.
+
+30
+00:02:23.820 --> 00:02:27.219
+Géoffroy - Datascientest: Vous avez, quelle ah ok, vous avez dit que vous êtes sur un Macbook.
+
+31
+00:02:27.730 --> 00:02:29.490
+Fatou Sall: Et là je suis vraiment.
+
+32
+00:02:30.570 --> 00:02:32.409
+Géoffroy - Datascientest: Hoc, ça marche pas souci
+
+33
+00:02:32.900 --> 00:02:34.010
+Géoffroy - Datascientest: un instant.
+
+34
+00:02:46.000 --> 00:02:50.789
+Géoffroy - Datascientest: donc lors de cette séance, moi j'ai un système d'exploitation
+
+35
+00:02:50.850 --> 00:02:52.170
+Géoffroy - Datascientest: ombu.
+
+36
+00:02:52.520 --> 00:02:55.110
+Géoffroy - Datascientest: si mon mari doit faire parfois des
+
+37
+00:02:55.430 --> 00:02:59.290
+Géoffroy - Datascientest: des présentations, je vais présenter un peu
+
+38
+00:02:59.540 --> 00:03:02.040
+Géoffroy - Datascientest: le Koscius, etc.
+
+39
+00:03:02.310 --> 00:03:06.079
+Géoffroy - Datascientest: C'est un système d'exploitation
+
+40
+00:03:06.250 --> 00:03:18.660
+Géoffroy - Datascientest: d'accord, c'est un système d'exploitation et aussi un système d'exploitation. En réalité, c'est un programme que l'on installe sur son ordinateur. Oui qui va agir un peu comme un chef d'orchestre. C'est à dire que
+
+41
+00:03:18.680 --> 00:03:22.470
+Géoffroy - Datascientest: quand on lance quelque chose, le programme nous aide à avoir un retour.
+
+42
+00:03:22.830 --> 00:03:25.210
+Géoffroy - Datascientest: c'est un programme qui nous permet de communiquer
+
+43
+00:03:25.560 --> 00:03:28.160
+Géoffroy - Datascientest: avec notre ordinateur Quelque chose.
+
+44
+00:03:28.450 --> 00:03:29.570
+Géoffroy - Datascientest: voilà un peu.
+
+45
+00:03:29.680 --> 00:03:33.990
+Géoffroy - Datascientest: bien sûr, on va se plonger dans le cas de
+
+46
+00:03:34.110 --> 00:03:42.290
+Géoffroy - Datascientest: Je ne sais pas si vous connaissez l'histoire un peu d'unicef.
+
+47
+00:03:42.970 --> 00:03:44.969
+Fatou Sall: Euh, unis, non.
+
+48
+00:03:47.890 --> 00:03:48.960
+Géoffroy - Datascientest: Ah bon.
+
+49
+00:03:49.370 --> 00:03:50.880
+Fatou Sall: Bon, j'ai
+
+50
+00:03:50.880 --> 00:03:51.630
+Fatou Sall: auparavant.
+
+51
+00:03:51.630 --> 00:03:52.000
+Fatou Sall: je pas.
+
+52
+00:03:52.000 --> 00:03:52.669
+Géoffroy - Datascientest: Avant les
+
+53
+00:03:52.670 --> 00:03:53.529
+Géoffroy - Datascientest: dans le courant.
+
+54
+00:03:53.530 --> 00:03:55.610
+Géoffroy - Datascientest: L'ennemi Ok
+
+55
+00:03:56.110 --> 00:04:03.899
+Géoffroy - Datascientest: est un dérivé du noyau
+
+56
+00:04:04.080 --> 00:04:05.110
+Géoffroy - Datascientest: unissent.
+
+57
+00:04:05.350 --> 00:04:07.300
+Géoffroy - Datascientest: Est-ce que ça peut aller jusque là Est-ce? qu'on
+
+58
+00:04:07.300 --> 00:04:08.950
+Géoffroy - Datascientest: en sociologie?
+
+59
+00:04:08.950 --> 00:04:13.079
+Géoffroy - Datascientest: Voilà donc Linus a été développé, c'est un système plus Roumanie
+
+60
+00:04:13.380 --> 00:04:14.669
+Géoffroy - Datascientest: open source
+
+61
+00:04:14.840 --> 00:04:19.089
+Géoffroy - Datascientest: d'accord qui permet à n'importe qui qui désire
+
+62
+00:04:19.100 --> 00:04:27.310
+Géoffroy - Datascientest: travaille sur le projet, être contributeur et tout peut avoir accès au cursus pour pouvoir contribuer sur ce projet. Là.
+
+63
+00:04:28.770 --> 00:04:29.580
+Fatou Sall: D'accord.
+
+64
+00:04:31.050 --> 00:04:31.950
+Géoffroy - Datascientest: Voilà
+
+65
+00:04:35.390 --> 00:04:39.960
+Géoffroy - Datascientest: donc Lennus. Aujourd'hui, il a plusieurs distributions
+
+66
+00:04:40.060 --> 00:04:59.809
+Géoffroy - Datascientest: d'accord et quand je parle de distribution, c'est un dérivé du système d'exploitation. Comme je le disais tout à l'heure que Linux, c'est un système d'exploitation open source basé sur Linux, donc il est utilisé dans une variété d'environnement, notamment les serveurs, les ordinateurs de bureau, les systèmes embarqués et bien d'autres.
+
+67
+00:05:00.240 --> 00:05:11.680
+Géoffroy - Datascientest: D'accord, donc aujourd'hui, on peut décider pour dire à Fatou Qu'est-ce que Linus? Il suffit juste de dire que c'est un système Opersous, c'est à dire que le Kosa est librement accessible et peut être modifié.
+
+68
+00:05:11.850 --> 00:05:18.890
+Géoffroy - Datascientest: Il y a plusieurs distributions et quand pas de distribution de Luminus ne sont pas de. Quoi En réalité, Linus n'est pas un système unique.
+
+69
+00:05:19.010 --> 00:05:35.899
+Géoffroy - Datascientest: mais un oiseau utilisé par des distributions comme Humbutu Centre, Kaarlie, etc. Il y en a plusieurs distributions de Linus et les avatars de Linux, Nous avons la stabilité et la fiabilité,
+
+70
+00:05:36.140 --> 00:05:38.509
+Géoffroy - Datascientest: nous avons la sécurité renforcée. Oui.
+
+71
+00:05:38.920 --> 00:05:40.260
+Géoffroy - Datascientest: nous avons
+
+72
+00:05:44.960 --> 00:05:45.740
+Géoffroy - Datascientest: comme le
+
+73
+00:05:46.530 --> 00:05:56.279
+Géoffroy - Datascientest: installer certains packages, on trouve rapidement des outils, des packages, des binaires de manière rapide au niveau des systèmes d'exploitation. L'illus. Regardez le cas aujourd'hui pour installer
+
+74
+00:05:56.320 --> 00:06:01.059
+Géoffroy - Datascientest: Docker sur une machine Windows et le cas d'installer des costume, une machine
+
+75
+00:06:01.310 --> 00:06:03.400
+Géoffroy - Datascientest: système d'exploitation.
+
+76
+00:06:03.420 --> 00:06:08.539
+Géoffroy - Datascientest: Je vois que c'est beaucoup plus rapide que d'être sur un système d'exportation Windows.
+
+77
+00:06:08.550 --> 00:06:20.300
+Géoffroy - Datascientest: il y a même certains outils qui n'ont même pas encore de paquets sur le système d'exploitation Minuz Est-ce qu'on se comprend aujourd'hui? Linus a une large communauté Est-ce? que vous êtes là.
+
+78
+00:06:20.750 --> 00:06:21.900
+Fatou Sall: Mais aussi de là.
+
+79
+00:06:21.900 --> 00:06:28.000
+Géoffroy - Datascientest: Voilà aujourd'hui Linus a une large communauté qui lui permet encore de gagner le marché
+
+80
+00:06:28.110 --> 00:06:36.089
+Géoffroy - Datascientest: et aujourd'hui c'est recommandé à beaucoup de personnes d'utiliser le Nice pour pouvoir prendre la main et être en contact avec les commandes, les chaînes, etc.
+
+81
+00:06:36.250 --> 00:06:45.900
+Géoffroy - Datascientest: Pouvoir s'habituer au monde numérique Pour ceux qui ont pour carrière dans le domaine de l'informatique purement les Devos ou bien les Hops.
+
+82
+00:06:46.630 --> 00:06:54.710
+Géoffroy - Datascientest: il y a aussi l'architecture de Linus et parlant de l'architecture de Lénus Linus organisé en plusieurs couches. Là, nous avons le noyau d'accord, le noyau qu'on appelle le kernel.
+
+83
+00:06:54.850 --> 00:06:57.450
+Géoffroy - Datascientest: D'accord, c'est ça, c'est le coeur même du système
+
+84
+00:06:57.570 --> 00:06:59.080
+Géoffroy - Datascientest: qui gère le matériel.
+
+85
+00:06:59.390 --> 00:07:04.889
+Géoffroy - Datascientest: Le code du système que j'ai eu le matériel, c'est ça qui est le noyau, c'est ça qu'on appelle encore le cannel. Nous avons le shel
+
+86
+00:07:05.220 --> 00:07:20.959
+Géoffroy - Datascientest: d'accord et quand je parle de Shell je parle de l'interface utilisateur et le nuage, c'est grâce à ce shell qu'on peut discuter avec l'autre machine, on peut le commander, on peut le dire. C dentelle répertoire, on peut le dire, Ls affiche une telle chose sans l'échelle. On pourra pas communiquer avec notre
+
+87
+00:07:21.070 --> 00:07:34.960
+Géoffroy - Datascientest: avec notre marché avec notre système d'exploitation. C'est aussi un moyen de dire que c'est un programme, comme je le disais tout à l'heure que C'est un programme qui permet de répondre qui permet de communiquer avec notre outil est ce que ça peut aller jusqu'à ce niveau.
+
+88
+00:07:35.200 --> 00:07:35.890
+Fatou Sall: Oui.
+
+89
+00:07:36.820 --> 00:07:49.490
+Géoffroy - Datascientest: Si vous ne comprenez pas quelque chose, vous pouvez m'arrêter, nous avons l'application, l'application, en réalité, c'est des programmes utilisateurs qui fonctionnent au dessus du noyau, c'est à dire, on a déjà installé il y a déjà le noyau, on a déjà installé le système d'exploitation sur ça.
+
+90
+00:07:49.540 --> 00:08:09.769
+Géoffroy - Datascientest: donc après ça, ce système d'exploitation se repose maintenant des applications et ces applications, c'est un programme utilisateur qui fonctionnent au dessus du noyau. Maintenant, on reviendra sur la structure. On vient de terminer avec l'architecture de Linux, on viendra sur la structure d'accord des fichiers
+
+91
+00:08:10.280 --> 00:08:11.410
+Géoffroy - Datascientest: Solinus
+
+92
+00:08:12.480 --> 00:08:20.999
+Géoffroy - Datascientest: Comment est structuré les fichiers sous Linus? Et de manière simple? Moi, je vais rapidement faire le Pataga de mon écran
+
+93
+00:08:21.820 --> 00:08:25.700
+Géoffroy - Datascientest: parce qu'on en a pour quelques quarantaine de minutes, comme cela
+
+94
+00:08:25.750 --> 00:08:27.949
+Géoffroy - Datascientest: la première séance de plus de contact.
+
+95
+00:08:28.030 --> 00:08:32.740
+Géoffroy - Datascientest: et là, lors de la prochaine séance. On va accélérer est-ce, que c'est pas comme ça?
+
+96
+00:08:32.950 --> 00:08:33.659
+Fatou Sall: Lui.
+
+97
+00:08:34.770 --> 00:08:37.380
+Géoffroy - Datascientest: Donc je projette rapidement mon
+
+98
+00:08:38.559 --> 00:08:40.380
+Géoffroy - Datascientest: ma fenêtre.
+
+99
+00:08:42.943 --> 00:08:45.239
+Géoffroy - Datascientest: j'attends ma fenêtre, Ok.
+
+100
+00:08:50.450 --> 00:08:54.580
+Géoffroy - Datascientest: confirmez-moi, ah, si vous voyez, bien sûr, non.
+
+101
+00:08:54.830 --> 00:08:55.940
+Géoffroy - Datascientest: terminera.
+
+102
+00:08:56.450 --> 00:08:58.089
+Fatou Sall: Mais là, je vois ton terminal.
+
+103
+00:09:04.280 --> 00:09:06.959
+Géoffroy - Datascientest: Ok, j'attends toc.
+
+104
+00:09:08.920 --> 00:09:10.149
+Géoffroy - Datascientest: Ok, c'est super.
+
+105
+00:09:10.230 --> 00:09:12.329
+Géoffroy - Datascientest: on va page rapidement sur mon terminal.
+
+106
+00:09:12.650 --> 00:09:16.150
+Géoffroy - Datascientest: je suis sur mon terminal, la première des choses à faire, j'ai fait une client.
+
+107
+00:09:16.830 --> 00:09:17.650
+Fatou Sall: Tac.
+
+108
+00:09:17.950 --> 00:09:27.000
+Géoffroy - Datascientest: Maintenant qu'est-ce, que je vais faire? Je vais aller au niveau du nuage. Je veux voir maintenant de manière
+
+109
+00:09:27.120 --> 00:09:32.840
+Géoffroy - Datascientest: et simplifier la structure, la structure de la racine
+
+110
+00:09:32.870 --> 00:09:44.369
+Géoffroy - Datascientest: sous Linus et de manière simple Qu'est-ce. que je fais? Je viens sur le matériel, je fais un CD,
+
+111
+00:09:45.040 --> 00:09:47.840
+Géoffroy - Datascientest: je fais ça
+
+112
+00:09:48.080 --> 00:09:48.820
+Géoffroy - Datascientest: tac.
+
+113
+00:09:49.100 --> 00:09:52.110
+Géoffroy - Datascientest: Donc ici, c'est ici, on parle de la racine.
+
+114
+00:09:53.110 --> 00:10:08.060
+Géoffroy - Datascientest: tout ce qui est ici au niveau de la racine, celle là. Il y a tous nos documents dans le système d'exploitation, tout ce qui est notre environnement de travail sur les niches, le système d'exploitation, tout tout les paquets, les librairies, tout ce dont on a besoin, ils sont tous là
+
+115
+00:10:08.270 --> 00:10:09.410
+Géoffroy - Datascientest: d'accord.
+
+116
+00:10:09.630 --> 00:10:10.490
+Fatou Sall: D'accord.
+
+117
+00:10:10.740 --> 00:10:14.320
+Géoffroy - Datascientest: Nous allons d'abord voir le bin.
+
+118
+00:10:14.590 --> 00:10:17.110
+Géoffroy - Datascientest: le bine.
+
+119
+00:10:17.550 --> 00:10:19.069
+Géoffroy - Datascientest: quel le rôle du Jin
+
+120
+00:10:19.430 --> 00:10:20.690
+Géoffroy - Datascientest: Après le Bi
+
+121
+00:10:20.740 --> 00:10:27.539
+Géoffroy - Datascientest: on a le bout, on a le Din, on a le roux, et chacun de ces répertoires joue un rôle précis qu'ils jouent.
+
+122
+00:10:28.090 --> 00:10:33.120
+Géoffroy - Datascientest: Vous avez constaté qu'il y a le bin qui est là, le bin. Il contient les fichiers exécutables
+
+123
+00:10:33.280 --> 00:10:37.199
+Géoffroy - Datascientest: essentiel, accessible par tous les utilisateurs
+
+124
+00:10:38.010 --> 00:10:40.830
+Géoffroy - Datascientest: d'accord, les fichiers exécutables
+
+125
+00:10:41.100 --> 00:10:47.780
+Géoffroy - Datascientest: essentiel accessible par tous les utilisateurs. Je viens ici, je fais céder Slash Bean.
+
+126
+00:10:48.980 --> 00:10:50.380
+Géoffroy - Datascientest: alors effacer Debin.
+
+127
+00:10:52.340 --> 00:10:54.880
+Géoffroy - Datascientest: vous voyez tout ce qui est dans cet affichage
+
+128
+00:10:56.160 --> 00:10:57.570
+Géoffroy - Datascientest: tous les fichiers
+
+129
+00:10:57.890 --> 00:11:08.299
+Géoffroy - Datascientest: accessible tous les fichiers exécutables c'est-à-dire, les fichiers essentiels exécutables accessibles par tous les utilisateurs.
+
+130
+00:11:09.170 --> 00:11:13.979
+Géoffroy - Datascientest: Quand j'ai fait un quatre, j'ai décidé de faire, pourquoi pas un quatre sur
+
+131
+00:11:15.300 --> 00:11:17.799
+Géoffroy - Datascientest: de ceci, ça peut être incapté.
+
+132
+00:11:20.420 --> 00:11:22.939
+Géoffroy - Datascientest: Coller Voilà un fichier.
+
+133
+00:11:23.700 --> 00:11:25.020
+Géoffroy - Datascientest: voilà Fichier
+
+134
+00:11:25.130 --> 00:11:38.120
+Géoffroy - Datascientest: le fichier est encrypté totalement encrypté. On ne sait pas ce qu'est la, mais c'est en réalité un fichier, ça a un rôle à jouer, peut être Si on supprime ce fichier là, ça va empêcher le système d'exploitation, notre Umboto de bien fonctionner.
+
+135
+00:11:38.940 --> 00:11:40.400
+Géoffroy - Datascientest: peut-être on ne sait pas
+
+136
+00:11:41.770 --> 00:11:42.670
+Géoffroy - Datascientest: d'accord.
+
+137
+00:11:42.950 --> 00:11:43.510
+Fatou Sall: D'accord
+
+138
+00:11:43.510 --> 00:11:44.040
+Fatou Sall: en Afp.
+
+139
+00:11:45.800 --> 00:11:46.669
+Géoffroy - Datascientest: On ne
+
+140
+00:11:48.690 --> 00:12:08.870
+Géoffroy - Datascientest: dont l'application a besoin, tout ce dont le système d'exploitation a besoin pour fonctionner, et donc chaque répertoire a son rôle, on a vu le lobbying, on a le bout Reconnaître le boot en réalité contient des fichiers nécessaires pour démarrer le système, c'est à dire le kennel. C'est grâce au boot, c'est l'affichage de boot qui nous permet de démarrer notre système d'exploitation
+
+141
+00:12:09.340 --> 00:12:10.510
+Géoffroy - Datascientest: se fait contre eux aussi
+
+142
+00:12:10.850 --> 00:12:16.400
+Géoffroy - Datascientest: se faire plaisir. Pour voir clair, je fais un CD, je reviens, je fais CD
+
+143
+00:12:16.950 --> 00:12:18.260
+Géoffroy - Datascientest: Slashboots
+
+144
+00:12:19.200 --> 00:12:23.849
+Géoffroy - Datascientest: C'est grâce à ce fichier qu'on peut démarrer que notre système d'exploitation se démarre
+
+145
+00:12:24.020 --> 00:12:26.979
+Géoffroy - Datascientest: sans ça. On peut pas démarrer le système d'exploitation En réalité.
+
+146
+00:12:27.230 --> 00:12:30.970
+Fatou Sall: C'est ça le rôle des fichiers qui sont répétables.
+
+147
+00:12:31.090 --> 00:12:34.630
+Géoffroy - Datascientest: Nous avons le répertoire d'eve lui cote des fichiers spéciaux
+
+148
+00:12:34.670 --> 00:12:42.730
+Géoffroy - Datascientest: pour accéder au périphérique comme 10, je parle de périphérique de sortir les 10, les ports, les ports, etc.
+
+149
+00:12:43.340 --> 00:12:45.690
+Géoffroy - Datascientest: Est-ce que ça peut aller le dernier? Oui.
+
+150
+00:12:46.260 --> 00:12:47.709
+Géoffroy - Datascientest: nous avons un et
+
+151
+00:12:47.850 --> 00:12:50.839
+Géoffroy - Datascientest: en réalité, c'est un
+
+152
+00:12:50.910 --> 00:13:00.560
+Géoffroy - Datascientest: C'est un fichier de configuration des systèmes et des applications. Nous avons le Hom, le home répertoire personnel des utilisateurs quand passe le Home Maintenant, par exemple, chez moi.
+
+153
+00:13:00.800 --> 00:13:02.869
+Géoffroy - Datascientest: le représentant personnel des utilisateurs
+
+154
+00:13:04.060 --> 00:13:06.200
+Géoffroy - Datascientest: d'accord, je fais c Deux ronds.
+
+155
+00:13:06.890 --> 00:13:10.860
+Géoffroy - Datascientest: c'est pourquoi les utilisateurs, je dois Geoffroy qui est là, parce que c'est moi. L'utilisateur
+
+156
+00:13:10.870 --> 00:13:22.460
+Géoffroy - Datascientest: sur votre machine, Si vous allez dans Home d'accord, vous allez voir vous en tant qu'utilisateur partout qui est là et vous pouvez créer autant d'utilisateurs que vous voulez. On reviendra sur ça, on reviendra sur sa part. Après.
+
+157
+00:13:22.750 --> 00:13:25.019
+Géoffroy - Datascientest: On peut créer autant d'utilisateurs qu'on veut.
+
+158
+00:13:25.130 --> 00:13:31.220
+Géoffroy - Datascientest: Nous avons le libre. Le libre arrêté. C'est une bibliothèque partagée pour les programmes du système
+
+159
+00:13:31.660 --> 00:13:37.209
+Géoffroy - Datascientest: bibliothèque partagée pour les problèmes du système. Je fais un CD libre
+
+160
+00:13:38.000 --> 00:13:38.680
+Géoffroy - Datascientest: tactique.
+
+161
+00:13:39.520 --> 00:13:40.440
+Géoffroy - Datascientest: voilà,
+
+162
+00:13:40.850 --> 00:13:42.310
+Géoffroy - Datascientest: c'est que des programmes.
+
+163
+00:13:43.660 --> 00:13:50.470
+Géoffroy - Datascientest: on a le Mlnt aussi le Mnt. Qu'estce que vous m'avez dit. C'est un point de montagne temporaire. Pour les systèmes de fichiers.
+
+164
+00:13:50.780 --> 00:13:51.610
+Géoffroy - Datascientest: c'est.
+
+165
+00:13:51.830 --> 00:14:02.519
+Géoffroy - Datascientest: Nous avons le process information dynamique d'accord sur le système et les processus virtuels.
+
+166
+00:14:02.750 --> 00:14:04.170
+Géoffroy - Datascientest: D'accord, nous avons une route.
+
+167
+00:14:04.220 --> 00:14:10.439
+Géoffroy - Datascientest: le répéter. Personnel de l'utilisateur le compte route quand parles de route je viens ici, je fais Tac.
+
+168
+00:14:10.580 --> 00:14:12.190
+Géoffroy - Datascientest: je vais faire céder.
+
+169
+00:14:12.720 --> 00:14:14.750
+Géoffroy - Datascientest: c'est déroute.
+
+170
+00:14:14.870 --> 00:14:15.799
+Géoffroy - Datascientest: ce sont d'accord.
+
+171
+00:14:16.600 --> 00:14:24.439
+Géoffroy - Datascientest: donc c'est pas la permission, je me disent, c'est des routes. Ça peut refuser si ça demande, ça, ça va pas refuser dans ce cas.
+
+172
+00:14:27.720 --> 00:14:29.149
+Géoffroy - Datascientest: Ok, ça doit marcher.
+
+173
+00:14:29.200 --> 00:14:33.239
+Géoffroy - Datascientest: donc il me dit: Je dois me connecter, je dois me connecter en tant qu'utilisateur.
+
+174
+00:14:33.750 --> 00:14:36.330
+Géoffroy - Datascientest: c'est-à-dire en tant que superviseur useur
+
+175
+00:14:36.360 --> 00:14:38.219
+Géoffroy - Datascientest: avant d'avoir accès à ça.
+
+176
+00:14:39.790 --> 00:14:43.199
+Géoffroy - Datascientest: là il faut faire, on va faire ce dossier, on reviendra sur ça.
+
+177
+00:14:43.660 --> 00:15:03.689
+Géoffroy - Datascientest: D'accord, nous avons le Sb, nous avons le Tmpp, nous avons le Ussr et Isr. Nous avons là bas. Le fichier qui contient les fichiers, c'est à dire les variables comme les look, les cash, etc. On aimerait avoir les loges, les cash, tout ce qui cache derrière.
+
+178
+00:15:05.900 --> 00:15:12.319
+Géoffroy - Datascientest: voilà le rôle que joue la Bara est ce que vous avez des questions sur ces répertoires que nous venons de voir.
+
+179
+00:15:12.610 --> 00:15:18.109
+Fatou Sall: Euh, juste pour Edf, je n'ai pas pu noter spécifiquement ça sert à quoi.
+
+180
+00:15:18.900 --> 00:15:22.420
+Géoffroy - Datascientest: Voilà ici. Voilà ici on a un look, vous voyez dans la barre, on a un look
+
+181
+00:15:22.530 --> 00:15:25.320
+Géoffroy - Datascientest: non? Le répertoire d'eve lui contient
+
+182
+00:15:25.520 --> 00:15:32.769
+Géoffroy - Datascientest: des fichiers spéciaux pour accéder au périphérique et comme périphérique. Je parle de 17, Je parle des portes, etc.
+
+183
+00:15:34.380 --> 00:15:44.390
+Géoffroy - Datascientest: C'est grâce à Dave Lorsqu'on met une clé USB dans notre machine, il reconnaît qu'il y a un périphérique qui vient d'être lui assigné.
+
+184
+00:15:47.720 --> 00:15:48.940
+Géoffroy - Datascientest: Est-ce que ça sue.
+
+185
+00:15:49.260 --> 00:15:50.110
+Fatou Sall: Oui.
+
+186
+00:15:50.870 --> 00:15:51.520
+Géoffroy - Datascientest: Voilà,
+
+187
+00:15:53.430 --> 00:15:54.200
+Géoffroy - Datascientest: voilà,
+
+188
+00:15:56.940 --> 00:15:59.240
+Géoffroy - Datascientest: voilà un peu
+
+189
+00:15:59.250 --> 00:16:02.080
+Géoffroy - Datascientest: un peu comment la racine s'organise.
+
+190
+00:16:02.490 --> 00:16:03.830
+Géoffroy - Datascientest: voilà un peu.
+
+191
+00:16:04.020 --> 00:16:09.570
+Géoffroy - Datascientest: Est-ce que vous avez d'autres d'autres questions à poser par rapport à la racine.
+
+192
+00:16:11.040 --> 00:16:12.670
+Fatou Sall: À quoi sert les variables.
+
+193
+00:16:14.670 --> 00:16:18.740
+Géoffroy - Datascientest: Ah! D'accord, les Arabes, en réalité qu'est-ce, que je disais tout à l'heure, je disais
+
+194
+00:16:18.860 --> 00:16:22.339
+Géoffroy - Datascientest: les variables, c'est.
+
+195
+00:16:22.826 --> 00:16:23.800
+Fatou Sall: oui, c'est des vaches.
+
+196
+00:16:24.410 --> 00:16:29.289
+Géoffroy - Datascientest: Voilà, le répertoire voit, c'est des données variables comme les genoux, comme les luxes.
+
+197
+00:16:29.890 --> 00:16:32.569
+Géoffroy - Datascientest: comme les données variables comme les journaux
+
+198
+00:16:32.610 --> 00:16:50.420
+Géoffroy - Datascientest: comme les looks. Il disait tout à l'heure que le répertoire var contient quoi lui il contient en réalité les fichiers variables comme les looks, les cash, les fichiers espoirs, c'est à dire qu'on peut vérifier de voir les loges qu'il y a un problème sur notre infra pas ensuite envah. Je suis ici, je peux faire un catch
+
+199
+00:16:51.290 --> 00:16:55.780
+Géoffroy - Datascientest: pour voir un look parce qu'il y a un log qui est là d'accord.
+
+200
+00:16:57.620 --> 00:17:01.949
+Géoffroy - Datascientest: un quatre rapidement collé pourvoi de l'eau, Voilà, c'est des luxes.
+
+201
+00:17:02.020 --> 00:17:06.300
+Géoffroy - Datascientest: donc un souci sur mon système, je peux vérifier les looks.
+
+202
+00:17:06.510 --> 00:17:17.019
+Géoffroy - Datascientest: je peux aller chercher un luxe d'accord, c'est un peu ça dans tout ce que Jacob ici mémorable kernel le Quesnel. C'est un problème sur lequel
+
+203
+00:17:17.030 --> 00:17:19.129
+Géoffroy - Datascientest: je peux rapidement venir voir les loges.
+
+204
+00:17:19.970 --> 00:17:20.630
+Fatou Sall: C'est-à-dire.
+
+205
+00:17:21.190 --> 00:17:23.029
+Géoffroy - Datascientest: Donc, quand je fais mes plates.
+
+206
+00:17:23.890 --> 00:17:24.819
+Géoffroy - Datascientest: vous dites.
+
+207
+00:17:24.829 --> 00:17:28.619
+Fatou Sall: N'avais pas bien suivi, j'ai noté quelque chose, c'est pour cela que je n'ai pas retenu du tout.
+
+208
+00:17:29.860 --> 00:17:31.559
+Géoffroy - Datascientest: Là, ça va peut-être.
+
+209
+00:17:31.560 --> 00:17:32.060
+Fatou Sall: La Parole.
+
+210
+00:17:32.060 --> 00:17:40.190
+Géoffroy - Datascientest: Il faut être vraiment vraiment adaptateur du système vraiment
+
+211
+00:17:40.670 --> 00:17:44.240
+Géoffroy - Datascientest: outillés pour pouvoir comment dirais Je
+
+212
+00:17:44.430 --> 00:17:58.940
+Géoffroy - Datascientest: accéder à ces fichiers, apporter des modifications, sinon tu ris de perdre ton système d'exploitation et là tu es obligé de faire, quoi de recréer, de réinstaller ton système d'exploitation.
+
+213
+00:17:59.080 --> 00:18:00.240
+Fatou Sall: Ok.
+
+214
+00:18:01.500 --> 00:18:02.739
+Géoffroy - Datascientest: Ça marche
+
+215
+00:18:03.420 --> 00:18:06.659
+Géoffroy - Datascientest: donc qu'est-ce, qu'on va faire de nouveau
+
+216
+00:18:07.010 --> 00:18:07.910
+Géoffroy - Datascientest: Tac?
+
+217
+00:18:08.030 --> 00:18:10.340
+Géoffroy - Datascientest: On verra aussi la commande.
+
+218
+00:18:10.410 --> 00:18:17.939
+Géoffroy - Datascientest: on verra aussi la commande la prochaine séance. D'accord, on verra la commande le moment, on aura des séances d'une heure 30 à deux heures au maximum.
+
+219
+00:18:18.160 --> 00:18:27.060
+Géoffroy - Datascientest: comme c'est la première séance, la séance de mise à jour, je vous dirai un peu comment va suivre la séance. Après cette séance, on verra les communs Presque toutes les commandes
+
+220
+00:18:27.870 --> 00:18:37.430
+Géoffroy - Datascientest: après les commandes, je pense qu'on va prendre 45 min pour voir les commandes après avoir vu la commande. On peut aller au niveau des grands jobs.
+
+221
+00:18:37.580 --> 00:18:45.239
+Géoffroy - Datascientest: comment va l'écran, comment mettre les comptables, etc, les tompes, etc. Et la science qui va suivre on va terminer le module Linus
+
+222
+00:18:46.200 --> 00:18:55.780
+Géoffroy - Datascientest: pour entamer un autre module. Ça peut être docker, ça peut être payer, ça va être coenetis selon votre selon vos exigences. Voilà, c'est ce que je voulais dire.
+
+223
+00:18:55.780 --> 00:18:59.659
+Fatou Sall: Et on parle là un peu de l'enix. Administrateur du système.
+
+224
+00:19:00.650 --> 00:19:08.180
+Géoffroy - Datascientest: Oui, oui, bien sûr, on verra ça, on verra ça, raison pour laquelle je parlais des commandes, quelque chose qui tape déjà des commandes de l'administration.
+
+225
+00:19:08.180 --> 00:19:08.990
+Fatou Sall: Mmh.
+
+226
+00:19:09.360 --> 00:19:09.920
+Géoffroy - Datascientest: Voilà
+
+227
+00:19:10.960 --> 00:19:11.480
+Géoffroy - Datascientest: Okay!
+
+228
+00:19:11.480 --> 00:19:11.969
+Géoffroy - Datascientest: La et.
+
+229
+00:19:11.970 --> 00:19:14.350
+Fatou Sall: Ng et Ngx.
+
+230
+00:19:16.240 --> 00:19:18.029
+Géoffroy - Datascientest: Vous voulez parler de Ndianis.
+
+231
+00:19:18.030 --> 00:19:19.370
+Fatou Sall: Il y a.
+
+232
+00:19:19.560 --> 00:19:24.879
+Géoffroy - Datascientest: On verra un Danis aussi, on verra comment configurer un Djani. Il n'y a pas de soucis.
+
+233
+00:19:24.880 --> 00:19:25.904
+Fatou Sall: Ça me va oui.
+
+234
+00:19:26.660 --> 00:19:31.670
+Géoffroy - Datascientest: Il n'y a pas de souci par rapport ça d'accord, mais je peux décider d'accord sur mon saveur
+
+235
+00:19:31.730 --> 00:19:35.980
+Géoffroy - Datascientest: sur mon environnement de voir, tiens je n'ai plus d'espace sur mon Cv.
+
+236
+00:19:36.260 --> 00:19:39.949
+Géoffroy - Datascientest: mais comment je vais faire. J'aimerais avoir une idée sur
+
+237
+00:19:39.980 --> 00:19:43.830
+Géoffroy - Datascientest: sur l'aspect terrestre, Quelles sont les ressources consommées?
+
+238
+00:19:43.950 --> 00:19:45.609
+Géoffroy - Datascientest: Tiens qu'est-ce, que je fais? Je viens.
+
+239
+00:19:45.810 --> 00:19:47.319
+Géoffroy - Datascientest: je lui dis: Tiens, tiens.
+
+240
+00:19:47.747 --> 00:19:50.419
+Géoffroy - Datascientest: là, moi je veux avoir des informations sur mon cerveau.
+
+241
+00:19:50.580 --> 00:19:55.289
+Géoffroy - Datascientest: Tiens voilà ici samedi les ressources utilisées
+
+242
+00:19:57.190 --> 00:19:58.090
+Géoffroy - Datascientest: D'accord.
+
+243
+00:19:58.450 --> 00:20:01.699
+Géoffroy - Datascientest: c'est ça qu'elle a dans les détails, je peux même mettre Tf.
+
+244
+00:20:03.130 --> 00:20:04.470
+Géoffroy - Datascientest: moi je te
+
+245
+00:20:05.330 --> 00:20:09.850
+Géoffroy - Datascientest: et ça va m'aligner, ça le message, ça va m'amener.
+
+246
+00:20:10.160 --> 00:20:26.440
+Géoffroy - Datascientest: voilà, vous voyez. Le dossier Tm un Pf S ce que ça utilisait la taille, c'est 769 mots, utiliser 3,1 mots, donc ça me reste encore 766 mots un pour 100
+
+247
+00:20:27.100 --> 00:20:49.719
+Géoffroy - Datascientest: Hop, C'est ça un peu, ça ça permet d'avoir une idée sur le système Est-ce. qu'il y a d'espace, estce qu'il y a peu d'espace sur mon serveur. S'il n'y a pas d'espace, il faut supprimer les conteneurs, il faut revoir le cluster, il faut diminuer les ressources, etc. Etc.
+
+248
+00:20:50.350 --> 00:20:51.730
+Géoffroy - Datascientest: Voilà un peu.
+
+249
+00:20:51.790 --> 00:20:56.150
+Géoffroy - Datascientest: voilà comment les choses les choses se passent sur
+
+250
+00:20:56.300 --> 00:20:58.450
+Géoffroy - Datascientest: sur Linus.
+
+251
+00:20:58.580 --> 00:21:01.189
+Géoffroy - Datascientest: Est-ce que vous avez des questions à ce niveau.
+
+252
+00:21:01.380 --> 00:21:02.840
+Fatou Sall: Non, c'était clair.
+
+253
+00:21:03.740 --> 00:21:19.919
+Géoffroy - Datascientest: Voilà ça marche maintenant, je souhaite travailler sur ma machine, je décide de savoir de connaître là où je suis Actuellement, Je suis en train de travail, mais je ne sais pas là où je suis, j'utilise la commande, je reviendrai, j'ai encore sur sa commande.
+
+254
+00:21:19.940 --> 00:21:26.560
+Géoffroy - Datascientest: Qui me situe le répéteur dans lequel je suis qui me dit: Tiens Geoffroy, tu es dans ta compétence de travail.
+
+255
+00:21:26.850 --> 00:21:34.449
+Géoffroy - Datascientest: C'est une commande couramment utilisée, c'est une commande, C'est une commande très très courante qui est très très utilisée pour ne pas faire des erreurs sur mon système de scolaire.
+
+256
+00:21:36.100 --> 00:21:37.970
+Géoffroy - Datascientest: est-ce que ça peut aller.
+
+257
+00:21:40.660 --> 00:21:41.330
+Fatou Sall: Oui.
+
+258
+00:21:42.330 --> 00:21:43.879
+Géoffroy - Datascientest: Super, ça marche.
+
+259
+00:21:44.130 --> 00:21:45.190
+Géoffroy - Datascientest: ça marche.
+
+260
+00:21:47.650 --> 00:21:51.570
+Géoffroy - Datascientest: donc la prochaine fois, on verra la commande.
+
+261
+00:21:52.450 --> 00:22:00.099
+Géoffroy - Datascientest: on verra la partie chron faire un grand job, pourquoi pas ça va faire un grand job, on va envoyer une ça, c'est possible.
+
+262
+00:22:00.280 --> 00:22:02.630
+Géoffroy - Datascientest: on va voir Jenny, c'est
+
+263
+00:22:03.040 --> 00:22:05.929
+Géoffroy - Datascientest: oui, on va voir un Djanis, etc.
+
+264
+00:22:06.370 --> 00:22:09.570
+Géoffroy - Datascientest: Et pourquoi pas aussi Oratos qu'on verra quand même
+
+265
+00:22:09.680 --> 00:22:16.110
+Géoffroy - Datascientest: ne vous inquiétez pas, donc voilà un peu vous allez commencer par préparer un peu. La commande peut être que vous allez réviser la commande.
+
+266
+00:22:16.410 --> 00:22:17.790
+Géoffroy - Datascientest: réviser
+
+267
+00:22:18.190 --> 00:22:28.299
+Géoffroy - Datascientest: l'ensemble de toutes les commandes, revoir les grands jobs, etc. Préparer aussi des questions pour que lors de la prochaine séance, ce soit une séance d'échange.
+
+268
+00:22:28.430 --> 00:22:32.969
+Géoffroy - Datascientest: de partage, d'expérience, etc. Et c'est à vous de pratiquer.
+
+269
+00:22:33.320 --> 00:22:38.850
+Géoffroy - Datascientest: d'accord, c'est à vous de pratiquer, et non à moi, c'est à vous de pratiquer.
+
+270
+00:22:39.470 --> 00:22:42.510
+Fatou Sall: Je préfère faire la pratique, de suivre.
+
+271
+00:22:42.510 --> 00:22:45.579
+Géoffroy - Datascientest: Voilà parce que plus que vous pratiquez.
+
+272
+00:22:45.960 --> 00:23:07.080
+Géoffroy - Datascientest: plus vous allez comprendre, moi, je suis un peu rapide. Il y a la majorité des apprenants qui disent que non, j'aimerais que ce soit moi même qui pratique la commande sur et là je suis le rythme de l'apprenant. Ca nous permet d'aller au même rythme, ça fait mal en prenant de prendre les commandes, de bien comprendre les choses, donc après la prochaine séance, préparer la viande de
+
+273
+00:23:07.160 --> 00:23:09.440
+Géoffroy - Datascientest: que
+
+274
+00:23:09.460 --> 00:23:24.840
+Géoffroy - Datascientest: Tatas ou vous pouvez utiliser votre terminal de Macbook. Je crois que c'est important, c'est la même chose: les commandes sont presque la même chose, et là on pourra travailler proprement dite à partir de la prochaine séance, et je crois que le lundi on va travailler.
+
+275
+00:23:25.380 --> 00:23:29.949
+Géoffroy - Datascientest: non, on a une séance normalement on a une séance demain si je ne me trompe pas.
+
+276
+00:23:30.110 --> 00:23:32.919
+Fatou Sall: Oui, c'est ça, donc tu m'avais dit, je dis. Exemple.
+
+277
+00:23:33.970 --> 00:23:40.509
+Géoffroy - Datascientest: Oui, oui, je veux voir si ça vient de demain, on va garder ou pas, sinon on peut le faire. Le lundi.
+
+278
+00:23:41.000 --> 00:23:42.859
+Fatou Sall: A quelle heure l'heure.
+
+279
+00:23:43.570 --> 00:23:54.749
+Géoffroy - Datascientest: Selon votre disponibilité si vous êtes disponible le matin ou le soir. Ça vous me dit: Je préfère que ce soit la prenante qui me dit: Maintenant, l'heure où à laquelle elle est disponible. Si ça m'arrange, je lui ai dit oui, si ça m'arrange pas. On trouve un autre chrono. Selon.
+
+280
+00:23:54.750 --> 00:23:59.470
+Fatou Sall: Mais on peut garder, on peut garder les 15 h, c'est mieux.
+
+281
+00:24:00.020 --> 00:24:02.989
+Géoffroy - Datascientest: Ok, D'accord, ça marche le lundi 15 jan. Alors
+
+282
+00:24:03.830 --> 00:24:08.159
+Géoffroy - Datascientest: ça marche donc on se dit à la prochaine et préparer la séance de la
+
+283
+00:24:08.340 --> 00:24:09.550
+Géoffroy - Datascientest: la prochaine fois.
+
+284
+00:24:09.920 --> 00:24:15.900
+Fatou Sall: Ok, d'accord parfait et du coup, juste une question est-ce: que j'aurais accès aux enregistrements.
+
+285
+00:24:17.180 --> 00:24:19.339
+Géoffroy - Datascientest: Ouais, je peux vous envoyer l'enregistrement de tout à l'heure.
+
+286
+00:24:19.740 --> 00:24:37.910
+Fatou Sall: Et vous me conseillez donc sur ma machine virtuelles proposées.
+
+287
+00:24:38.600 --> 00:24:41.580
+Géoffroy - Datascientest: Je crois que vous avez déjà Vous êtes sur un Macbook non.
+
+288
+00:24:41.580 --> 00:24:43.260
+Fatou Sall: Oui, là, je suis sur un magot.
+
+289
+00:24:44.070 --> 00:24:47.159
+Géoffroy - Datascientest: Et vous avez un autre ordinateur Window, C'est ça.
+
+290
+00:24:47.380 --> 00:24:50.660
+Fatou Sall: Non, j'ai un ordinateur, mais je l'utilise pas.
+
+291
+00:24:51.630 --> 00:24:56.310
+Géoffroy - Datascientest: Ouais, vous pouvez utiliser votre terminal Macbook y a pas de soucis, Hein, ok, c'est à peu près, c'est la même chose.
+
+292
+00:24:56.480 --> 00:24:56.970
+Fatou Sall: Mais c'est ça.
+
+293
+00:24:56.970 --> 00:24:57.800
+Fatou Sall: c'est le
+
+294
+00:24:58.100 --> 00:24:59.020
+Fatou Sall: Durant la.
+
+295
+00:24:59.020 --> 00:24:59.679
+Géoffroy - Datascientest: C'est ça.
+
+296
+00:24:59.910 --> 00:25:14.039
+Géoffroy - Datascientest: oui, on peut utiliser ça, il n'y a pas de souci, c'est le même noyau, y a pas de souci, c'est quand les Vm sont créées pour permettre aux apprenants et apprenants quand ils n'ont pas l'outil qu'ils n'ont pas de système chez eux de pouvoir travailler, c'est tout
+
+297
+00:25:14.050 --> 00:25:16.689
+Géoffroy - Datascientest: si une réalité, ce n'est pas obligatoire. Oui.
+
+298
+00:25:16.690 --> 00:25:25.590
+Fatou Sall: Ok, D'accord, je vais essayer de le faire au maximum avec mon ordi, mais pour ce qui est Docker, c'est mieux lever.
+
+299
+00:25:25.590 --> 00:25:45.510
+Géoffroy - Datascientest: Oui, pour tout ce qui est connétisme qui a un souci, je sais que connaitise on peut l'avoir sur Macbook parce que c'est déjà suffisant, on peut installer minicum, c'est déjà suffisant pour pouvoir travailler
+
+300
+00:25:45.530 --> 00:25:51.010
+Géoffroy - Datascientest: jusqu'à ce niveau. Vous n'avez pas de problème d'avoir un autre ordinateur ou bien d'utiliser même la Vm de ta synthèse.
+
+301
+00:25:51.510 --> 00:26:00.259
+Fatou Sall: Ok, D'accord, donc je pense que dans la tension, on a eu sur ce poé là où tu vas monter, parce que j'avais des erreurs quand je voulais le faire depuis mon manteau.
+
+302
+00:26:00.960 --> 00:26:03.160
+Géoffroy - Datascientest: D'accord, on verra ça ensemble, y a pas de soucis.
+
+303
+00:26:03.160 --> 00:26:15.070
+Fatou Sall: Ok Et l'autre question que j'avais, c'est que est-ce que je suis obligée donc de rester sur le Nice parce que là, comme tu l'as dit, j'ai révisé les cours de Linux et Linux admis.
+
+304
+00:26:15.470 --> 00:26:22.699
+Fatou Sall: Est-ce que je peux continuer à faire les cours là où je me suis arrêtée, le Sprint quatre: avancer en parallèle.
+
+305
+00:26:22.700 --> 00:26:23.260
+Géoffroy - Datascientest: C'est
+
+306
+00:26:23.720 --> 00:26:30.510
+Géoffroy - Datascientest: oui, oui, il n'y a pas du tout de souci, hein, il n'y a pas du tout de soucis, on revoit juste les choses que vous n'avez pas pu comprendre, même sur Linus
+
+307
+00:26:30.560 --> 00:26:43.390
+Géoffroy - Datascientest: peut être. S'il y a des commandes que vous comprenez déjà, vous avez déjà testé la commande, on peut laisser la commande. Il n'y a pas de souci et vous allez poser des questions sur les choses clés, vous allez poser des choses sur les choses clés. On n'est plus obligé de revenir sur la commande, vous allez poser des questions.
+
+308
+00:26:43.390 --> 00:26:51.509
+Fatou Sall: Et que quand j'ai l'enregistrement, moi, ça me permettrait de réviser encore et encore pour tout de tenir et tester à nouveau.
+
+309
+00:26:51.660 --> 00:26:52.499
+Fatou Sall: donc on va de la.
+
+310
+00:26:52.500 --> 00:26:53.900
+Géoffroy - Datascientest: Là, ça marche.
+
+311
+00:26:53.900 --> 00:27:00.330
+Fatou Sall: Regardez le programme que tu as défini, et donc si j'ai des questions par rapport aux autres cours, si j'ai des.
+
+312
+00:27:00.330 --> 00:27:00.760
+Géoffroy - Datascientest: Et que.
+
+313
+00:27:00.760 --> 00:27:05.169
+Fatou Sall: Le cas du proposais et à un moment donné, si on redevient sur le coup, on pourra en discuter encore.
+
+314
+00:27:05.640 --> 00:27:08.210
+Géoffroy - Datascientest: D'accord, y a pas souci, y a pas de soucis là, ça marche, Ok.
+
+315
+00:27:08.210 --> 00:27:08.610
+Fatou Sall: Ok.
+
+316
+00:27:08.610 --> 00:27:11.080
+Géoffroy - Datascientest: On se dit a lundi 15 h.
+
+317
+00:27:11.080 --> 00:27:16.569
+Fatou Sall: A lundi 15 h d'accord pour une durée d'une heure une heure 30 Comme ça, je puisse.
+
+318
+00:27:16.570 --> 00:27:18.970
+Géoffroy - Datascientest: Oui une heure 30 au maximum.
+
+319
+00:27:18.970 --> 00:27:21.290
+Fatou Sall: D'accord, d'accord, d'accord, ça me va
+
+320
+00:27:21.450 --> 00:27:26.009
+Fatou Sall: ok, j'attends donc l'enregistrement et merci beaucoup pour la disponibilité.
+
+321
+00:27:26.010 --> 00:27:28.590
+Géoffroy - Datascientest: Merci, Merci à tout à l'heure.
+
+322
+00:27:28.590 --> 00:27:29.920
+Fatou Sall: A tout à l'heure, au revoir.
+
+323
+00:27:30.290 --> 00:27:30.860
+Géoffroy - Datascientest: Oui.
+

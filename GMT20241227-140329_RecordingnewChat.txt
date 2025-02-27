@@ -1,0 +1,13 @@
+00:28:36	Géoffroy - Datascientest:	ll /dev/null
+00:31:47	Géoffroy - Datascientest:	df -h
+00:34:05	Géoffroy - Datascientest:	cd sda1
+00:35:43	Géoffroy - Datascientest:	file /dev/sda
+00:37:48	Géoffroy - Datascientest:	cd /etc/systemd/system
+00:39:41	Géoffroy - Datascientest:	creer des liens symbolique ln
+00:39:50	Géoffroy - Datascientest:	supprimer unlink
+00:41:04	Géoffroy - Datascientest:	cd /tmp echo "premier lien "  > formation
+00:45:20	Géoffroy - Datascientest:	ls -s formation lien
+00:46:16	Géoffroy - Datascientest:	unlink lien
+00:53:59	Géoffroy - Datascientest:	cd /var/run
+00:57:55	Géoffroy - Datascientest:	ls -l /run | grep ^s
+00:59:27	Géoffroy - Datascientest:	tree
